@@ -34,7 +34,7 @@ Currently pursuing Computer Engineering (IV Year) 👨🏻‍💻 in [Thapar Ins
 
 ### Technologies I use :computer:
 
-#### Pytorch | Tensorflow | Keras | C++ 
+#### Pytorch | Tensorflow | Keras | Pycaret | AWS 
 
 <div align="center">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
