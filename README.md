@@ -29,12 +29,14 @@ Currently pursuing Masters in Computer and Information Science 👨🏻‍💻 a
 
 ### Languages I write in :pencil2:
 
-- Python :snake:
-- C++ :smile:
+- Python
+- Java
+- Kotlin
+- C++
 
 ### Technologies I use :computer:
 
-#### Pytorch | Tensorflow | Keras | Pycaret | AWS 
+#### Spring, React.js, JavaScript, Git, Jest, Selenium, JUnit, Prometheus, AWS, Hive, Unix/Linux, Pytorch, Scikit Learn, PySpark
 
 <div align="center">
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
