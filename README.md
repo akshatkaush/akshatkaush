@@ -5,7 +5,7 @@
 
 # Hi I'm Akshat Kaushal :smile:
 
-Currently pursuing Computer Engineering (IV Year) 👨🏻‍💻 at [Thapar Institute of Engineering and Technology](https://thapar.edu)
+Currently pursuing Masters in Computer and Information Science 👨🏻‍💻 at [University of Pennsylvania](https://www.upenn.edu/)
 
 
 ## Into Machine Learning, Data Science and Web Development :robot:
